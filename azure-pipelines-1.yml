@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: psychic winner
+  vmImage: Default
 
 variables:
   buildConfiguration: 'Release'
